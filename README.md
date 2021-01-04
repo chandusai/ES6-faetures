@@ -27,3 +27,7 @@ Big Int
 Example 
 
 let ch ="ChanduMovva"
+
+let ch= 'chandumovva'
+
+console.log(ch);
