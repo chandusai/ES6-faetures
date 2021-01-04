@@ -5,8 +5,9 @@
 
 There are two types of datatypes in Javascript
 
-Primitves
-Ref/Non-primitives
+##Primitves
+
+##Reference/Non-primitives
 
 Primitve Data types
 
@@ -17,3 +18,10 @@ Undefined
 Null
 Symbol
 Big Int 
+
+
+## String
+
+ a string is a set of characters enclosed in quotes. A string can be defined using double quotes/ single quotes
+ 
+ 
