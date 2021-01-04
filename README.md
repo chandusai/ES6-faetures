@@ -24,4 +24,6 @@ Big Int
 
  a string is a set of characters enclosed in quotes. A string can be defined using double quotes/ single quotes
  
- 
+Example 
+
+let ch ="ChanduMovva"
