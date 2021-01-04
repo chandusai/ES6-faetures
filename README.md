@@ -9,7 +9,7 @@ There are two types of datatypes in Javascript
 
 ## Reference/Non-primitives
 
-Primitve Data types
+ In Primitve Data types we have  
 
 ### String
 ### Number
@@ -33,3 +33,11 @@ let ch ="ChanduMovva"
 let ch= 'chandumovva'
 
 console.log(ch);
+
+## Numbers 
+
+Numbers can be positive,negative, decimal, we will also get math expressions as well , let's say for example
+
+let x=  5+3;
+let y= 2+4;
+
