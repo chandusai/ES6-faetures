@@ -5,9 +5,9 @@
 
 There are two types of datatypes in Javascript
 
-##Primitves
+## Primitves
 
-##Reference/Non-primitives
+## Reference/Non-primitives
 
 Primitve Data types
 
@@ -18,6 +18,8 @@ Primitve Data types
 ### Null
 ### Symbol
 ### Big Int 
+
+
 
 
 ## String
